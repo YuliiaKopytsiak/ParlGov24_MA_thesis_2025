@@ -1,0 +1,336 @@
+country_name_short;country_name;election_type;election_date;vote_share;seats;seats_total;party_name_short;party_name;party_name_english;left_right;country_id;election_id;previous_parliament_election_id;previous_cabinet_id;party_id
+AUT;Austria;parliament;29.09.2019;37,5;71;183;OVP;?sterreichische Volkspartei;Austrian People's Party;6,4733;59;1080;1019;1600;1013
+AUT;Austria;parliament;29.09.2019;21,2;40;183;SPO;Sozialdemokratische Partei ?sterreichs;Social Democratic Party of Austria;3,7293;59;1080;1019;1600;973
+AUT;Austria;parliament;29.09.2019;16,2;31;183;FPO;Freiheitliche Partei ?sterreichs;Freedom Party of Austria;8,3494;59;1080;1019;1600;50
+AUT;Austria;parliament;29.09.2019;13,9;26;183;Gruene;Die Gr?nen – Die Gr?ne Alternative;The Greens -- The Green Alternative;2,4604;59;1080;1019;1600;1429
+AUT;Austria;parliament;29.09.2019;8,1;15;183;NEOS;NEOS – Das Neue ?sterreich;NEOS -- The New Austria;6;59;1080;1019;1600;2255
+AUT;Austria;parliament;29.09.2019;1,9;0;183;PILZ;JETZT – Liste Pilz;JETZT -- Pilz List;2,5;59;1080;1019;1600;2651
+BEL;Belgium;parliament;26.05.2019;16,03;25;150;N-VA;Nieuw-Vlaamse Alliantie;New Flemish Alliance;6,5321;64;1048;816;1586;501
+BEL;Belgium;parliament;26.05.2019;9,46;20;150;PS;Parti Socialiste;Socialist Party [Francophone];2,9307;64;1048;816;1586;1378
+BEL;Belgium;parliament;26.05.2019;11,95;18;150;VB;Vlaams Blok | Vlaams Belang;Flemish Block | Flemish Interest;9,6622;64;1048;816;1586;993
+BEL;Belgium;parliament;26.05.2019;7,56;14;150;MR;Mouvement R?formateur;Reformist Movement;6,6889;64;1048;816;1586;915
+BEL;Belgium;parliament;26.05.2019;6,14;13;150;Ecolo;?cologistes Conf?d?r?s pour l'organisation de luttes originales;Confederated ecologists for the organisation of original struggles;2,641;64;1048;816;1586;161
+BEL;Belgium;parliament;26.05.2019;8,54;12;150;PVV|VLD;Partij voor Vrijheid en Vooruitgang | Vlaamse Liberalen en Democraten;Party of Liberty and Progress | Flemish Liberals and Democrats;7,0053;64;1048;816;1586;1110
+BEL;Belgium;parliament;26.05.2019;8,89;12;150;CVP|CD&V;Christelijke Volkspartij | Christen-Democratisch en Vlaams;Flemish Christian Peoples Party | Christian Democrats & Flemish;5,7667;64;1048;816;1586;723
+BEL;Belgium;parliament;26.05.2019;8,62;12;150;PA-PTB;Partij van de Arbeid – Parti du Travail de Belgique;Workers' Party of Belgium;1,3;64;1048;816;1586;256
+BEL;Belgium;parliament;26.05.2019;6,71;9;150;SP;Socialistische Partij;Socialist Party;3,2459;64;1048;816;1586;1029
+BEL;Belgium;parliament;26.05.2019;6,1;8;150;AGL-Gr;Agalev – Groen;Agalev -- Green;2,5762;64;1048;816;1586;1594
+BEL;Belgium;parliament;26.05.2019;3,7;5;150;PSC-CDH;Parti Social Chr?tien – Centre Democrate Humaniste;Francophone Christian Social Party -- Humanist Democratic Centre;5,4974;64;1048;816;1586;1192
+BEL;Belgium;parliament;26.05.2019;2,22;2;150;FDF;Front D?mocratique des Francophones | D?FI;Francophone Democratic Front;6,1259;64;1048;816;1586;969
+BEL;Belgium;parliament;26.05.2019;1,11;0;150;Pp;Parti populaire;People's Party;7,4;64;1048;816;1586;438
+BGR;Bulgaria;parliament;02.04.2023;25,39;69;240;GERB;Grazhdani za Evropeysko Razvitie na Balgariya;Citizens for European Development of Bulgaria;8,7;10;1120;1114;1691;1541
+BGR;Bulgaria;parliament;02.04.2023;23,54;64;240;PP;Prodalzhavame promyanata;We Continue the Change;;10;1120;1114;1691;2847
+BGR;Bulgaria;parliament;02.04.2023;13,58;37;240;R;Vazrazhdane;Revival;8,7;10;1120;1114;1691;2640
+BGR;Bulgaria;parliament;02.04.2023;13,18;36;240;DPS;Dvizhenie za Prava i Svobodi;Movement for Rights and Freedoms;4,5828;10;1120;1114;1691;1286
+BGR;Bulgaria;parliament;02.04.2023;8,56;23;240;BSP;Balgarska Sotsialisticheska Partiya;Bulgarian Socialist Party;3,0064;10;1120;1114;1691;982
+BGR;Bulgaria;parliament;02.04.2023;3,94;11;240;ITN;Ima takav narod;There Is Such a People;7,4;10;1120;1114;1691;2836
+BGR;Bulgaria;parliament;02.04.2023;2,93;0;240;BV;Balgarski vazhod;Bulgarian Rise;7,4;10;1120;1114;1691;2871
+BGR;Bulgaria;parliament;02.04.2023;2,14;0;240;IS;Izpravi se!;Stand up!;3,3;10;1120;1114;1691;2838
+CYP;Cyprus;parliament;30.05.2021;27,77;17;56;DISY;Dimokratik?s Sinayerm?s;Democratic Rally;8,6842;51;1095;1004;1628;1575
+CYP;Cyprus;parliament;30.05.2021;22,34;15;56;AKEL;Anorthotik? K?mma Ergaz?menou Lao?;Progressive Party of Working People;1,0526;51;1095;1004;1628;572
+CYP;Cyprus;parliament;30.05.2021;11,29;9;56;DIKO;Dimokratik? K?mma;Democratic Party;5,1316;51;1095;1004;1628;851
+CYP;Cyprus;parliament;30.05.2021;6,78;4;56;ELAM;Ethniko Laiko Metopo;National Popular Front;8,7;51;1095;1004;1628;1768
+CYP;Cyprus;parliament;30.05.2021;6,72;4;56;EDEK;Kinima Sosialdimokraton EDEK;Movement for Social Democracy EDEK;3,2895;51;1095;1004;1628;945
+CYP;Cyprus;parliament;30.05.2021;6,1;4;56;DP;Dimokratiki Parataxi;Democratic Alignment;6;51;1095;1004;1628;2741
+CYP;Cyprus;parliament;30.05.2021;4,41;3;56;KOP;Kinima Oikologoi Perivallontistoi;Ecological and Environmental Movement;5,7895;51;1095;1004;1628;1621
+CYP;Cyprus;parliament;30.05.2021;1;0;56;KGTZTK;Kinima gia ta zoa tis K?prou;Animal Party Cyprus;;51;1095;1004;1628;2627
+CYP;Cyprus;parliament;30.05.2021;2,31;0;56;KINHMA;Kinima Allileggiis;Solidarity Movement;8,7;51;1095;1004;1628;2626
+CYP;Cyprus;parliament;30.05.2021;3,27;0;56;EP;Energi Polites;Active Citizens;1,3;51;1095;1004;1628;2815
+CYP;Cyprus;parliament;30.05.2021;2,82;0;56;Anex;Independents Movement;Independents Movement;6;51;1095;1004;1628;2817
+CYP;Cyprus;parliament;30.05.2021;1,35;0;56;AM;Afypnisis 2020;Awakening 2020;;51;1095;1004;1628;2819
+CYP;Cyprus;parliament;30.05.2021;1,56;;56;AK; Amm?khostos yia tin K?pro;Famagusta for Cyprus;6;51;1095;1004;1628;2818
+CYP;Cyprus;parliament;30.05.2021;1,28;;56;PL; Pn? Lao?;People's Breath;8,7;51;1095;1004;1628;2820
+CZE;Czech Republic;parliament;09.10.2021;27,13;72;200;ANO;Akce nespokojen?ch ob?an? 2011;Action of Dissatisfied Citizens 2011;6;68;1099;1020;1534;2263
+CZE;Czech Republic;parliament;09.10.2021;27,79;71;200;ODS;Ob?ansk? demokratick? strana;Civic Democratic Party;7,3637;68;1099;1020;1534;829
+CZE;Czech Republic;parliament;09.10.2021;15,62;37;200;STAN;Starostov? a nez?visl?;Mayors and Independents;6;68;1099;1020;1534;2024
+CZE;Czech Republic;parliament;09.10.2021;9,56;20;200;SPD;Svoboda a p??m? demokracie ;Freedom and Direct Democracy ;8,7;68;1099;1020;1534;2654
+CZE;Czech Republic;parliament;09.10.2021;4,66;0;200;CSSD;?esk? strana soci?ln? demokratick?;Czech Social Democratic Party;3,0463;68;1099;1020;1534;789
+CZE;Czech Republic;parliament;09.10.2021;3,61;0;200;KSCM;Komunistick? strana Cech a Moravy;Communist Party of Bohemia and Moravia;0,7498;68;1099;1020;1534;1173
+CZE;Czech Republic;parliament;09.10.2021;4,68;0;200;P;P??saha;Oath;;68;1099;1020;1534;2831
+CZE;Czech Republic;parliament;09.10.2021;1,33;0;200;VB;Voln? blok;Free Bloc;8,7;68;1099;1020;1534;2854
+CZE;Czech Republic;parliament;09.10.2021;2,76;0;200;Tri;Trikol?ra;Tricolour Citizens' Movement;8,7;68;1099;1020;1534;2832
+CZE;Czech Republic;parliament;09.10.2021;0,99;0;200;SZ;Strana zelen?ch;Green Party;4,123;68;1099;1020;1534;196
+DEU;Germany;parliament;26.09.2021;25,74;206;736;SPD;Sozialdemokratische Partei Deutschlands;Social Democratic Party of Germany;3,6451;54;1096;1016;1528;558
+DEU;Germany;parliament;26.09.2021;18,9;152;736;CDU;Christlich Demokratische Union;Christian Democratic Union;6,2503;54;1096;1016;1528;808
+DEU;Germany;parliament;26.09.2021;14,75;118;736;B90/Gru;B?ndnis 90 / Die Gr?nen;Alliance 90 / Greens;2,9308;54;1096;1016;1528;772
+DEU;Germany;parliament;26.09.2021;11,46;92;736;FDP;Freie Demokratische Partei;Free Democratic Party;5,9233;54;1096;1016;1528;543
+DEU;Germany;parliament;26.09.2021;10,34;83;736;AfD;Alternative f?r Deutschland;Alternative for Germany;8,7;54;1096;1016;1528;2253
+DEU;Germany;parliament;26.09.2021;5,17;45;736;CSU;Christlich Soziale Union;Christian Social Union;7,2871;54;1096;1016;1528;1180
+DEU;Germany;parliament;26.09.2021;4,89;39;736;PDS|Li;PDS | Die Linke;PDS | The Left;1,2152;54;1096;1016;1528;791
+DEU;Germany;parliament;26.09.2021;0,12;1;736;SSW;S?dschleswigscher W?hlerverband;South Schleswig Voter League;;54;1096;1016;1528;2850
+DEU;Germany;parliament;26.09.2021;2,43;0;736;FW;Freie W?hler;Free Voters;7,4;54;1096;1016;1528;41
+DEU;Germany;parliament;26.09.2021;0,99;0;736;PARTEI;Die PARTEI;The PARTY;;54;1096;1016;1528;2649
+DEU;Germany;parliament;26.09.2021;1,36;0;736;dieBasis;Basisdemokratische Partei Deutschland;Grassroots Democratic Party of Germany;;54;1096;1016;1528;2821
+DEU;Germany;parliament;26.09.2021;1,45;0;736;Tier;Tierschutzpartei;Animal Protection Party;;54;1096;1016;1528;301
+DNK;Denmark;parliament;01.11.2022;27,5;50;179;Sd;Socialdemokraterne;Social Democrats;3,8011;21;1116;1077;1598;1629
+DNK;Denmark;parliament;01.11.2022;13,3;23;179;V;Venstre;Liberal Party;7,292;21;1116;1077;1598;1605
+DNK;Denmark;parliament;01.11.2022;9,3;16;179;M;Moderaterne;Moderates;6;21;1116;1077;1598;2887
+DNK;Denmark;parliament;01.11.2022;8,3;15;179;SF;Socialistisk Folkeparti;Socialist Peoples Party;2,1347;21;1116;1077;1598;1644
+DNK;Denmark;parliament;01.11.2022;7,9;14;179;NLA;Ny-Liberal Alliance;New-Liberal Alliance;6;21;1116;1077;1598;376
+DNK;Denmark;parliament;01.11.2022;8,1;14;179;AE;Danmarksdemokraterne;Denmark Democrats;8,7;21;1116;1077;1598;2888
+DNK;Denmark;parliament;01.11.2022;5,5;10;179;KF;Konservative;Conservatives;7,2186;21;1116;1077;1598;590
+DNK;Denmark;parliament;01.11.2022;5,1;9;179;En-O;Enhedslisten – De R?d-Gr?nne;Red-Green Alliance;0,8912;21;1116;1077;1598;306
+DNK;Denmark;parliament;01.11.2022;3,8;7;179;RV;Det Radikale Venstre;Danish Social Liberal Party;4,8736;21;1116;1077;1598;211
+DNK;Denmark;parliament;01.11.2022;3,7;6;179;NB;Nye Borgerlige;The New Right;8,7;21;1116;1077;1598;2781
+DNK;Denmark;parliament;01.11.2022;3,3;6;179;A;Alternativet;The Alternative;2,5;21;1116;1077;1598;2567
+DNK;Denmark;parliament;01.11.2022;2,6;5;179;DF;Dansk Folkeparti;Danish People's Party;8,2269;21;1116;1077;1598;1418
+DNK;Denmark;parliament;01.11.2022;;1;179;IA;Inuit Ataqatigiit;Community of the People;1,3;21;1116;1077;1598;1891
+DNK;Denmark;parliament;01.11.2022;;1;179;Si;Siumut;Forward (Greenland);3,3;21;1116;1077;1598;74
+DNK;Denmark;parliament;01.11.2022;;1;179;Sbf;Sambandsflokkurin;Union Party (Faroe Islands);7,4;21;1116;1077;1598;1892
+DNK;Denmark;parliament;01.11.2022;;1;179;Jf;Javna?arflokkurin;Social Democratic Party (Faroe Islands);3,3;21;1116;1077;1598;1894
+DNK;Denmark;parliament;01.11.2022;0,9;0;179;no-seat;no seat;no seat;;21;1116;1077;1598;2058
+ESP;Spain;parliament;10.11.2019;28;120;350;PSOE;Partido Socialista Obrero Espa?ol;Spanish Socialist Workers Party;3,7377;27;1085;1046;1601;902
+ESP;Spain;parliament;10.11.2019;20,81;89;350;AP-P;Alianza-Partido Popular;People's Alliance-Party;7,5969;27;1085;1046;1601;645
+ESP;Spain;parliament;10.11.2019;15,08;52;350;Vox;Vox;Voice;8,7;27;1085;1046;1601;2380
+ESP;Spain;parliament;10.11.2019;9,82;26;350;P;Podemos;We Can;1,3;27;1085;1046;1601;2376
+ESP;Spain;parliament;10.11.2019;3,61;13;350;ERC;Esquerra Republicana de Catalunya;Republican Left of Catalonia;3,1072;27;1085;1046;1601;757
+ESP;Spain;parliament;10.11.2019;6,8;10;350;Cs;Ciudadanos – Partido de la Ciudadan?a;Citizens -- Party of the Citizenry;6;27;1085;1046;1601;2375
+ESP;Spain;parliament;10.11.2019;2,19;8;350;CDC|JxCat;Converg?ncia Democr?tica | Junts per Catalunya;Democratic Convergence | Together for Catalonia;7,4;27;1085;1046;1601;2605
+ESP;Spain;parliament;10.11.2019;2,26;7;350;ECP;En Com? Podem;In Common We Can;1,3;27;1085;1046;1601;2606
+ESP;Spain;parliament;10.11.2019;1,56;6;350;PNV;Partido Nacionalista Vasco – Euzko Alderdi Jeltzalea;Basque Nationalist Party;6,2144;27;1085;1046;1601;1361
+ESP;Spain;parliament;10.11.2019;1,14;5;350;EHB;Euskal Herria Bildu;Basque Country Unite;;27;1085;1046;1601;2603
+ESP;Spain;parliament;10.11.2019;0,41;2;350;NA+;Navarra Suma;Sum Navarre;7,4;27;1085;1046;1601;2723
+ESP;Spain;parliament;10.11.2019;0,51;2;350;CC;Coalici?n Canaria;Canary Coalition;5,9789;27;1085;1046;1601;234
+ESP;Spain;parliament;10.11.2019;0,78;2;350;EM|GCE;En Marea | Grupo Com?n da Esquerda;En Masse | Common Group of the Left;1,3;27;1085;1046;1601;2604
+ESP;Spain;parliament;10.11.2019;1,02;2;350;CUP;Candidatura d'Unitat Popular;Popular Unity Candidacy;1,3;27;1085;1046;1601;2792
+ESP;Spain;parliament;10.11.2019;1,46;2;350;Equo;Equo;Equo;2,5;27;1085;1046;1601;2804
+ESP;Spain;parliament;10.11.2019;0,37;2;350;one-seat;one seat;one seat;;27;1085;1046;1601;2294
+ESP;Spain;parliament;10.11.2019;0,5;1;350;BNG;Bloque Nacionalista Galego;Galician Nationalist Bloc;2,9117;27;1085;1046;1601;520
+ESP;Spain;parliament;10.11.2019;0,73;1;350;C|AV;Comprom?s | A la valenciana;Compromise | A la valenciana;1,3;27;1085;1046;1601;2607
+ESP;Spain;parliament;10.11.2019;0,94;0;350;PACMA;Partido Animalista Contra el Maltrato Animal;Animalist Party Against Mistreatment to Animals;;27;1085;1046;1601;2381
+EST;Estonia;parliament;05.03.2023;31,2;37;101;ERe;Eesti Reformierakond;Estonian Reform Party;7,8969;75;1118;1044;1688;113
+EST;Estonia;parliament;05.03.2023;16,1;17;101;ERa/EKR;Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond;People's Union of Estonia / Conservative People's Party;4,5812;75;1118;1044;1688;417
+EST;Estonia;parliament;05.03.2023;15,3;16;101;EK;Eesti Keskerakond;Estonian Centre Party;3,9562;75;1118;1044;1688;1137
+EST;Estonia;parliament;05.03.2023;13,3;14;101;E200;Erakond Eesti 200;Estonia 200;6;75;1118;1044;1688;2720
+EST;Estonia;parliament;05.03.2023;9,3;9;101;SDE|M;Sotsiaaldemokraatlik Erakond | M??dukad;Social Democratic Party | Moderates;4,1915;75;1118;1044;1688;1448
+EST;Estonia;parliament;05.03.2023;8,2;8;101;IRL;Erakond Isamaa ja Res Publica Liit;Pro Patria and Res Publica Union;8,4962;75;1118;1044;1688;1597
+EST;Estonia;parliament;05.03.2023;1;0;101;EER;Erakond Eestimaa Rohelised;Estonian Greens;2,5;75;1118;1044;1688;219
+EST;Estonia;parliament;05.03.2023;2,4;0;101;EUV;Eestimaa ?hendatud Vasakpartei;Estonian United Left Party;1,3;75;1118;1044;1688;2892
+EST;Estonia;parliament;05.03.2023;2,3;0;101;P;Parempoolsed;the Right;7,4;75;1118;1044;1688;2893
+FIN;Finland;parliament;02.04.2023;20,8;48;200;KOK;Kansallinen Kokoomus – Samlingspartiet;National Coalition Party;7,2451;67;1119;1045;1607;1118
+FIN;Finland;parliament;02.04.2023;20,1;46;200;SP|P;Suomen Puolue | Perussuomalaiset;Finnish Party | True Finns;6,6331;67;1119;1045;1607;200
+FIN;Finland;parliament;02.04.2023;19,9;43;200;SSDP;Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti;Social Democratic Party of Finland;3,5595;67;1119;1045;1607;395
+FIN;Finland;parliament;02.04.2023;11,3;23;200;KESK;Keskusta;Centre Party;5,8027;67;1119;1045;1607;94
+FIN;Finland;parliament;02.04.2023;7;13;200;VIHR;Vihre? Liitto – Gr?na F?rbundet;Green League;3,6465;67;1119;1045;1607;1062
+FIN;Finland;parliament;02.04.2023;7,1;11;200;DL|VAS;Demokraattinen Liitto – Demokratiska F?rbundet | Vasemmistoliitto – V?nsterf?rbundet ;Democratic Union | Left Alliance;2,1843;67;1119;1045;1607;1292
+FIN;Finland;parliament;02.04.2023;4,3;9;200;RKP-SFP;Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland;Swedish People's Party;6,3906;67;1119;1045;1607;585
+FIN;Finland;parliament;02.04.2023;4,2;5;200;KD;Kristillisdemokraatit – Kristdemokraterna;Christian Democrats;7,1884;67;1119;1045;1607;1463
+FIN;Finland;parliament;02.04.2023;2,4;1;200;LN;Liike Nyt;Movement Now;6;67;1119;1045;1607;2801
+FIN;Finland;parliament;02.04.2023;0,37;1;200;AS;?l?ndsk Samling;Aland Coalition;;67;1119;1045;1607;66
+FIN;Finland;parliament;02.04.2023;0,5;0;200;no-seat;no seat;no seat;;67;1119;1045;1607;2054
+FRA;France;parliament;19.06.2022;25,75;245;577;REM|R;La R?publique En Marche! | Renaissance;The Republic Onwards! | Renaissance;6;43;1110;1014;1673;2643
+FRA;France;parliament;19.06.2022;25,66;131;577;FI;La France Insoumise;Unbowed France;1,3;43;1110;1014;1673;2644
+FRA;France;parliament;19.06.2022;18,68;89;577;FN;Rassemblement National ;National Rally;9,6854;43;1110;1014;1673;270
+FRA;France;parliament;19.06.2022;10,42;61;577;UMP|LR;Union pour un mouvement populaire | Les R?publicains;Union for a Popular Movement | The Republicans;7,4997;43;1110;1014;1673;658
+FRA;France;parliament;19.06.2022;3,14;22;577;d-gauche;divers gauche;other left;3,3;43;1110;1014;1673;177
+FRA;France;parliament;19.06.2022;2,33;10;577;d-droite;divers droite;other right;7,6583;43;1110;1014;1673;285
+FRA;France;parliament;19.06.2022;1,28;10;577;none;sans ?tiquette;no party affiliation;;43;1110;1014;1673;947
+FRA;France;parliament;19.06.2022;1,25;4;577;d-centre;divers centre;other centre;6;43;1110;1014;1673;2858
+FRA;France;parliament;19.06.2022;0,87;3;577;UDI;Union des d?mocrates et ind?pendants;Union of Democrats and Independents;7,4;43;1110;1014;1673;2273
+FRA;France;parliament;19.06.2022;0,85;1;577;etc;divers;others;;43;1110;1014;1673;1328
+FRA;France;parliament;19.06.2022;0,9;1;577;one-seat;one seat;one seat;;43;1110;1014;1673;2859
+FRA;France;parliament;19.06.2022;1,17;0;577;ex-gau;extr?me gauche;other far-left;1,3;43;1110;1014;1673;2083
+FRA;France;parliament;19.06.2022;2,67;0;577;PE;Parti ?cologiste;Ecologist Party;2,5;43;1110;1014;1673;2813
+FRA;France;parliament;19.06.2022;4,24;0;577;R!;Reconqu?te;Reconquest;8,7;43;1110;1014;1673;2860
+GRC;Greece;parliament;21.05.2023;40,8;146;300;ND;N?a ?imokrat?a;New Democracy;6,7365;41;1122;1078;1597;47
+GRC;Greece;parliament;21.05.2023;20,7;71;300;SYRIZA;Synaspism?s Rizospastik?s Arister?s;Coalition of the Radical Left;2,8947;41;1122;1078;1597;1592
+GRC;Greece;parliament;21.05.2023;11,5;41;300;PASOK;Panellinio Sosialistik? K?nima;Panhellenic Socialist Movement;4,4968;41;1122;1078;1597;1338
+GRC;Greece;parliament;21.05.2023;7,2;26;300;KKE;Kommounistik? K?mma Ell?das;Communist Party of Greece;1,253;41;1122;1078;1597;614
+GRC;Greece;parliament;21.05.2023;4,45;16;300;EL;Elliniki Lisi;Greek Solution;7,4;41;1122;1078;1597;2780
+GRC;Greece;parliament;21.05.2023;2,9;0;300;LE|PE;La?k? En?tita | Plefsi Eleftherias;Popular Unity | Course of Freedom;1,3;41;1122;1078;1597;2596
+GRC;Greece;parliament;21.05.2023;2,63;0;300;MeRA25;M?topo Evropaik?s Realistik?s Anypako?s;European Realistic Disobedience Front;1,3;41;1122;1078;1597;2742
+GRC;Greece;parliament;21.05.2023;2,9;0;300;Niki;Dimokratik? Patriotik? K?nima 'N?ki';Democratic Patriotic Movement 'Victory';8,7;41;1122;1078;1597;2901
+GRC;Greece;parliament;25.06.2023;40,56;158;300;ND;N?a ?imokrat?a;New Democracy;6,7365;41;1123;1122;1696;47
+GRC;Greece;parliament;25.06.2023;17,83;47;300;SYRIZA;Synaspism?s Rizospastik?s Arister?s;Coalition of the Radical Left;2,8947;41;1123;1122;1696;1592
+GRC;Greece;parliament;25.06.2023;11,84;32;300;PASOK;Panellinio Sosialistik? K?nima;Panhellenic Socialist Movement;4,4968;41;1123;1122;1696;1338
+GRC;Greece;parliament;25.06.2023;7,69;21;300;KKE;Kommounistik? K?mma Ell?das;Communist Party of Greece;1,253;41;1123;1122;1696;614
+GRC;Greece;parliament;25.06.2023;4,68;12;300;Sp;Sparti?tes;Spartans;8,7;41;1123;1122;1696;2902
+GRC;Greece;parliament;25.06.2023;4,44;12;300;EL;Elliniki Lisi;Greek Solution;7,4;41;1123;1122;1696;2780
+GRC;Greece;parliament;25.06.2023;3,7;10;300;Niki;Dimokratik? Patriotik? K?nima 'N?ki';Democratic Patriotic Movement 'Victory';8,7;41;1123;1122;1696;2901
+GRC;Greece;parliament;25.06.2023;3,17;8;300;LE|PE;La?k? En?tita | Plefsi Eleftherias;Popular Unity | Course of Freedom;1,3;41;1123;1122;1696;2596
+GRC;Greece;parliament;25.06.2023;2,5;0;300;MeRA25;M?topo Evropaik?s Realistik?s Anypako?s;European Realistic Disobedience Front;1,3;41;1123;1122;1696;2742
+HRV;Croatia;parliament;05.07.2020;37,26;66;151;HDZ;Hrvatska demokratska zajednica;Croatian Democratic Union;7,1053;62;1094;1007;1512;276
+HRV;Croatia;parliament;05.07.2020;23,88;41;151;SPH;Socijaldemokratska partija Hrvatske;Social Democratic Party of Croatia;3,2456;62;1094;1007;1512;1493
+HRV;Croatia;parliament;05.07.2020;10,89;16;151;DP;Domovinski pokret;Homeland Movement;8,7;62;1094;1007;1512;2809
+HRV;Croatia;parliament;05.07.2020;7,39;8;151;Most;Most nezavisnih lista;Bridge of Independent Lists;7,4;62;1094;1007;1512;2615
+HRV;Croatia;parliament;05.07.2020;6,99;7;151;M!;Mo?emo! – politi?ka platforma;We Can! -- Political Platform;2,5;62;1094;1007;1512;2810
+HRV;Croatia;parliament;05.07.2020;1,76;5;151;ethnic;ethnic;ethnic;;62;1094;1007;1512;2192
+HRV;Croatia;parliament;05.07.2020;3,98;3;151;P;Pametno;Intelligently;6;62;1094;1007;1512;2772
+HRV;Croatia;parliament;05.07.2020;0,78;3;151;SDSS;Samostalna demokratska srpska stranka; Independent Democratic Serb Party;3,3;62;1094;1007;1512;2133
+HRV;Croatia;parliament;05.07.2020;1,3;1;151;HNS-LD;Hrvatska narodna stranka – Liberalni demokrati;Croatian People's Party -- Liberal Democrats;1,8421;62;1094;1007;1512;1384
+HRV;Croatia;parliament;05.07.2020;1,01;1;151;NS;Narodna stranka – Reformisti;People's Party -- Reformists ;6;62;1094;1007;1512;2614
+HRV;Croatia;parliament;05.07.2020;2,26;0;151;ZiZi;?ivi zid;Human Shield ;8,7;62;1094;1007;1512;2612
+HUN;Hungary;parliament;03.04.2022;;117;199;Fi-MPSz;Fidesz – Magyar Polg?ri Sz?vets?g;Fidesz -- Hungarian Civic Union;6,5432;39;1107;1023;1531;921
+HUN;Hungary;parliament;03.04.2022;;18;199;KDNP;Kereszt?nydemokrata N?pp?rt;Christian Democratic People's Party;7,4;39;1107;1023;1531;434
+HUN;Hungary;parliament;03.04.2022;35,74;15;199;DK;Demokratikus Koal?ci?;Democratic Coalition;3,3;39;1107;1023;1531;1970
+HUN;Hungary;parliament;03.04.2022;;10;199;MSZP;Magyar Szocialista P?rt;Hungarian Socialist Party;2,8743;39;1107;1023;1531;1591
+HUN;Hungary;parliament;03.04.2022;;10;199;Jobbik;Jobbik Magyarorsz?g?rt Mozgalom;Jobbik Movement for a Better Hungary;8,7;39;1107;1023;1531;600
+HUN;Hungary;parliament;03.04.2022;;10;199;MM;Momentum Mozgalom;Momentum Movement;7,4;39;1107;1023;1531;2659
+HUN;Hungary;parliament;03.04.2022;5,88;6;199;MHM;Mi Haz?nk Mozgalom;Our Homeland Movement;8,7;39;1107;1023;1531;2745
+HUN;Hungary;parliament;03.04.2022;;6;199;PM;P?rbesz?d Magyarorsz?g?rt;Dialogue for Hungary;2,5;39;1107;1023;1531;2349
+HUN;Hungary;parliament;03.04.2022;;5;199;LMP;Lehet M?s a Politika;Politics Can Be Different;2,5;39;1107;1023;1531;403
+HUN;Hungary;parliament;03.04.2022;;1;199;MNOO;Magyarorsz?gi N?metek Orsz?gos ?nkorm?nyzata;National Self-Government of Germans in Hungary;;39;1107;1023;1531;2908
+HUN;Hungary;parliament;03.04.2022;;1;199;none;f?ggetlen;no party affiliation;;39;1107;1023;1531;1617
+HUN;Hungary;parliament;03.04.2022;3,27;0;199;MKKP;Magyar K?tfark? Kutya P?rt;Hungarian Two-tailed Dog Party;;39;1107;1023;1531;2660
+HUN;Hungary;parliament;03.04.2022;1,04;0;199;MEMO;Megold?s Mozgalom ;Solution Movement ;6;39;1107;1023;1531;2855
+HUN;Hungary;parliament;03.04.2022;54,13;;199;Fi+KDNP;Fidesz – Magyar Polg?ri Sz?vets?g / Kereszt?nydemokrata N?pp?rt;Fidesz -- Hungarian Civic Party / Christian Democratic People's Party;6,5432;39;1107;1023;1531;437
+IRL;Ireland;parliament;08.02.2020;22,18;38;160;FF;Fianna F?il;Fianna Fail;6,0713;37;1088;1002;1511;280
+IRL;Ireland;parliament;08.02.2020;24,53;37;160;SF;Sinn F?in;Sinn Fein;2,7935;37;1088;1002;1511;2217
+IRL;Ireland;parliament;08.02.2020;20,86;35;160;FG;Fine Gael;Fine Gael (Family of the Irish);6,4372;37;1088;1002;1511;1393
+IRL;Ireland;parliament;08.02.2020;12,2;19;160;none;no party affiliation;no party affiliation;;37;1088;1002;1511;30
+IRL;Ireland;parliament;08.02.2020;7,13;12;160;Green;Green Party  – Comhaontas Glas;Green Party;2,435;37;1088;1002;1511;1573
+IRL;Ireland;parliament;08.02.2020;4,38;6;160;Lab;Labour Party;Labour Party;3,6252;37;1088;1002;1511;318
+IRL;Ireland;parliament;08.02.2020;2,9;6;160;DS;Daonlathaigh Sh?isialta;Social Democrats ;3,3;37;1088;1002;1511;2619
+IRL;Ireland;parliament;08.02.2020;2,63;5;160;D-PRB;Dl?thphart?ocht – Pobal Roimh Bhrab?s;Solidarity -- People Before Profit;1,3;37;1088;1002;1511;2776
+IRL;Ireland;parliament;08.02.2020;1,9;1;160;A;Aont?;Aontu;7,4;37;1088;1002;1511;2795
+IRL;Ireland;parliament;08.02.2020;0,39;1;160;IC;Independents 4 Change;Independents 4 Change;1,3;37;1088;1002;1511;2621
+IRL;Ireland;parliament;08.02.2020;0,25;0;160;no-seat;no seat;no seat;;37;1088;1002;1511;2216
+ITA;Italy;parliament;25.09.2022;26;118;400;FdI;Fratelli d'Italia;Brothers of Italy;8,7;26;1113;1024;1681;2154
+ITA;Italy;parliament;25.09.2022;19,07;69;400;PD;Partito Democratico;Democratic Party;2,6216;26;1113;1024;1681;382
+ITA;Italy;parliament;25.09.2022;8,77;66;400;LN;Lega Nord;North League;7,8007;26;1113;1024;1681;1436
+ITA;Italy;parliament;25.09.2022;15,43;52;400;M5S;Movimento 5 Stelle;Five Star Movement;;26;1113;1024;1681;2155
+ITA;Italy;parliament;25.09.2022;8,11;44;400;FI-PdL;Forza Italia – Il Popolo della Libert?;Go Italy -- The People of Freedom;7,1459;26;1113;1024;1681;596
+ITA;Italy;parliament;25.09.2022;7,79;21;400;IV;Italia Viva;Italy Alive;6;26;1113;1024;1681;2794
+ITA;Italy;parliament;25.09.2022;3,63;11;400;P|SDI;Partito | Socialisti Democratici Italiani;Italian Democratic Socialists | Party;3,9895;26;1113;1024;1681;1278
+ITA;Italy;parliament;25.09.2022;0,91;9;400;UC;Unione / Centro;Union / Centre;6,1092;26;1113;1024;1681;226
+ITA;Italy;parliament;25.09.2022;2,83;3;400;#²Ì’ß?;#²Ì’ß?;More Europe;6;26;1113;1024;1681;2737
+ITA;Italy;parliament;25.09.2022;0,42;3;400;SVP;S?dtiroler Volkspartei;South Tyrol Peoples Party;5,4;26;1113;1024;1681;1030
+ITA;Italy;parliament;25.09.2022;;3;400;etc;diversi;others;;26;1113;1024;1681;825
+ITA;Italy;parliament;25.09.2022;0,76;1;400;one-seat;one seat;one seat;;26;1113;1024;1681;2302
+ITA;Italy;parliament;25.09.2022;1,9;0;400;Italexit;Italext per l'Italia;Italexit for Italy;7,4;26;1113;1024;1681;2873
+ITA;Italy;parliament;25.09.2022;1,24;0;400;ISP;Italia Sovrana e Popolare ;Sovereign and Popular Italy;8,7;26;1113;1024;1681;2874
+ITA;Italy;parliament;25.09.2022;1,43;0;400;PRC;Partito della Rifondazione Comunista;Communist Refoundation Party;0,8849;26;1113;1024;1681;1321
+LTU;Lithuania;parliament;11.10.2020;25,77;50;141;TS-LK;T?vyn?s s?junga;Homeland Union;7,4004;15;1091;1009;1615;1045
+LTU;Lithuania;parliament;11.10.2020;18,07;32;141;LVLS;Lietuvos valstie?i? s?junga;Lithuanian Peasant Union;3,2687;15;1091;1009;1615;191
+LTU;Lithuania;parliament;11.10.2020;9,58;13;141;LSDP;Lietuvos socialdemokrat? partija;Lithuanian Social Democratic Party;3,1972;15;1091;1009;1615;1277
+LTU;Lithuania;parliament;11.10.2020;7,04;13;141;LRLS;Lietuvos Respublikos liberal? s?j?dis;Liberals Movement of the Republic of Lithuania;7,7562;15;1091;1009;1615;482
+LTU;Lithuania;parliament;11.10.2020;9,45;11;141;LP;Laisv?s partija;Freedom Party;6;15;1091;1009;1615;2805
+LTU;Lithuania;parliament;11.10.2020;9,77;10;141;DP;Darbo partija;Labour Party;3,86;15;1091;1009;1615;581
+LTU;Lithuania;parliament;11.10.2020;;4;141;none;no party affiliation;no party affiliation;;15;1091;1009;1615;58
+LTU;Lithuania;parliament;11.10.2020;4,97;3;141;LLRA;Lietuvos lenk? rinkim? akcija;Election Action of Lithuania's Poles;3,865;15;1091;1009;1615;28
+LTU;Lithuania;parliament;11.10.2020;3,28;3;141;LSDDP;Lietuvos socialdemokrat? darbo partija;Social Democratic Labour Party of Lithuania;3,3;15;1091;1009;1615;2763
+LTU;Lithuania;parliament;11.10.2020;2,06;1;141;LLS;Lietuvos laisv?s s?junga (liberalai);Lithuanian Freedom Union (Liberals);6;15;1091;1009;1615;2634
+LTU;Lithuania;parliament;11.10.2020;1,7;1;141;LZP;Lietuvos ?alioji partija;Lithuanian Green Party;2,5;15;1091;1009;1615;21
+LTU;Lithuania;parliament;11.10.2020;2,36;0;141;LCP;Lietuvos Centro Partija;Lithuanian Centre Party;8,7;15;1091;1009;1615;2635
+LTU;Lithuania;parliament;11.10.2020;2,21;0;141;SV/NS;Susigr??inkime valstyb?! | Nacionalinis Susivienijimas;Recover the State! | National Alliance;8,7;15;1091;1009;1615;2762
+LTU;Lithuania;parliament;11.10.2020;1,18;0;141;DK;Dr?sos kelias;The Way of Courage;;15;1091;1009;1615;2121
+LUX;Luxembourg;parliament;14.10.2018;27,08;21;60;CSV;Chr?schtlech Sozial Vollekspartei;Christian Social People's Party;6,4474;7;1043;803;1069;1234
+LUX;Luxembourg;parliament;14.10.2018;16,4;12;60;DP;Demokratesch Partei;Democratic Party;6,5789;7;1043;803;1069;967
+LUX;Luxembourg;parliament;14.10.2018;15,72;10;60;LSAP;L?tzebuerger Sozialistesch Aarbechterpartei;Luxembourg Socialist Workers' Party;3,2895;7;1043;803;1069;701
+LUX;Luxembourg;parliament;14.10.2018;14,1;9;60;Greng;D?i Gr?ng;The Greens;2,5;7;1043;803;1069;310
+LUX;Luxembourg;parliament;14.10.2018;8,02;4;60;AR|ADR;Aktiounskomitee Rente | Alternativ Demokratesch Reformpartei;Action Committee Pensions | Alternative Democratic Reform Party;8,8158;7;1043;803;1069;1582
+LUX;Luxembourg;parliament;14.10.2018;6,2;2;60;Pi;Piratepartei L?tzebuerg;Pirate Party Luxembourg;;7;1043;803;1069;2256
+LUX;Luxembourg;parliament;14.10.2018;4,72;2;60;DL;D?i L?nk;The Left;0,5263;7;1043;803;1069;457
+LUX;Luxembourg;parliament;14.10.2018;1,07;0;60;KPL;Kommunistesch Partei L?tzebuerg;Communist Party of Luxembourg;1,3;7;1043;803;1069;151
+LVA;Latvia;parliament;01.10.2022;18,97;26;100;V;Vienot?ba;Unity;7,4;55;1115;1042;1592;1666
+LVA;Latvia;parliament;01.10.2022;12,44;16;100;ZZS;Za?o un Zemnieku savien?ba;Green and Farmers' Union;5,2632;55;1115;1042;1592;466
+LVA;Latvia;parliament;01.10.2022;11,01;15;100;LZP;Latvijas Za?? partija;Latvian Green Party;4,6711;55;1115;1042;1592;1001
+LVA;Latvia;parliament;01.10.2022;9,29;13;100;NA/TB/LNNK;Nacion?l? apvien?ba / T?vzemei un Br?v?bai / LNNK;National Alliance / For Fatherland and Freedom / LNNK;8,2588;55;1115;1042;1592;521
+LVA;Latvia;parliament;01.10.2022;6,8;11;100;S!;Stabilit?tei!;For Stability!;;55;1115;1042;1592;2875
+LVA;Latvia;parliament;01.10.2022;6,16;10;100;P;Progres?vie;The Progressive;3,3;55;1115;1042;1592;2716
+LVA;Latvia;parliament;01.10.2022;6,24;9;100;LPV;Latvija pirmaj? viet?;Latvia First;8,7;55;1115;1042;1592;2876
+LVA;Latvia;parliament;01.10.2022;3,63;0;100;PCTVL;Par cilv?ka ties?b?m vienot? Latvij?;For Human Rights in a United Latvia;1,25;55;1115;1042;1592;1520
+LVA;Latvia;parliament;01.10.2022;4,81;0;100;S;Saska?as;Harmony;3;55;1115;1042;1592;1100
+LVA;Latvia;parliament;01.10.2022;1,76;0;100;R;Republika;Republic;3,3;55;1115;1042;1592;2877
+LVA;Latvia;parliament;01.10.2022;4,97;0;100;AP!;Att?st?bai/Par!;Development/For!;;55;1115;1042;1592;2878
+LVA;Latvia;parliament;01.10.2022;3,09;0;100;JKP;Jaun? konservat?v? partija;New Conservative Party;7,4;55;1115;1042;1592;2717
+LVA;Latvia;parliament;01.10.2022;3,67;0;100;KuK;Katram un katrai;For Each and Every One;8,7;55;1115;1042;1592;2880
+LVA;Latvia;parliament;01.10.2022;1;0;100;TKL;Tautas kalpi Latvijai;People's Servants for Latvia;;55;1115;1042;1592;2881
+LVA;Latvia;parliament;01.10.2022;3,24;0;100;SV;Suver?n? vara;Sovereign Power;8,7;55;1115;1042;1592;2882
+LVA;Latvia;parliament;01.10.2022;1,13;0;100;PP;Tautas varas sp?ks;Power of the People;7,4;55;1115;1042;1592;2883
+MLT;Malta;parliament;26.03.2022;55,11;44;79;PL;Partit Laburista;Malta Labour Party;4,2105;72;1124;1010;1623;1003
+MLT;Malta;parliament;26.03.2022;41,74;35;79;PN;Partit Nazzjonalista;Nationalist Party;5,7143;72;1124;1010;1623;984
+MLT;Malta;parliament;26.03.2022;1,61;0;79;AD;Alternattiva Demokratika;Democratic Alternative;3,7895;72;1124;1010;1623;360
+NLD;Netherlands;parliament;17.03.2021;21,87;34;150;VVD;Volkspartij voor Vrijheid en Democratie;People's Party for Freedom and Democracy;7,3482;8;1097;1012;1648;1409
+NLD;Netherlands;parliament;17.03.2021;15,02;24;150;D66;Democraten 66;Democrats 66;4,5066;8;1097;1012;1648;345
+NLD;Netherlands;parliament;17.03.2021;10,79;17;150;PVV;Partij voor de Vrijheid;Party for Freedom;8,8;8;1097;1012;1648;1501
+NLD;Netherlands;parliament;17.03.2021;9,5;15;150;CDA;Christen Democratisch App?l;Christian Democratic Appeal;5,9376;8;1097;1012;1648;235
+NLD;Netherlands;parliament;17.03.2021;5,98;9;150;SP;Socialistiese Partij;Socialist Party;1,3682;8;1097;1012;1648;357
+NLD;Netherlands;parliament;17.03.2021;5,73;9;150;PvdA;Partij van de Arbeid;Labour Party;3,6118;8;1097;1012;1648;742
+NLD;Netherlands;parliament;17.03.2021;5,16;8;150;GL;GroenLinks;GreenLeft;2,0454;8;1097;1012;1648;756
+NLD;Netherlands;parliament;17.03.2021;5,02;8;150;FvD;Forum voor Democratie;Forum for Democracy;8,7;8;1097;1012;1648;2642
+NLD;Netherlands;parliament;17.03.2021;3,84;6;150;PvdD;Partij voor de Dieren;Party for the Animals;;8;1097;1012;1648;990
+NLD;Netherlands;parliament;17.03.2021;3,37;5;150;CU;ChristenUnie;ChristianUnion;6,1732;8;1097;1012;1648;1206
+NLD;Netherlands;parliament;17.03.2021;2,07;3;150;SGP;Staatkundig Gereformeerde Partij;Political Reformed Party;8,7531;8;1097;1012;1648;1251
+NLD;Netherlands;parliament;17.03.2021;2,03;3;150;DENK;Beweging DENK;Think;3,3;8;1097;1012;1648;2641
+NLD;Netherlands;parliament;17.03.2021;2,42;3;150;VN;Volt Nederland;Volt Netherlands;;8;1097;1012;1648;2735
+NLD;Netherlands;parliament;17.03.2021;2,37;3;150;JA21;Juiste Antwoord21;Right Answer 2021;8,7;8;1097;1012;1648;2823
+NLD;Netherlands;parliament;17.03.2021;1,02;1;150;50+;50PLUS;50PLUS;;8;1097;1012;1648;2109
+NLD;Netherlands;parliament;17.03.2021;1;1;150;BBB;BoerBurgerBeweging;Farmer-Citizen Movement;5,3;8;1097;1012;1648;2824
+NLD;Netherlands;parliament;17.03.2021;0,84;1;150;one-seat;one seat;one seat;;8;1097;1012;1648;2288
+NLD;Netherlands;parliament;17.03.2021;0,39;0;150;no-seat;no seat;no seat;;8;1097;1012;1648;2110
+POL;Poland;parliament;13.10.2019;43,59;235;460;PiS;Prawo i Sprawiedliwo??;Law and Justice;7,6997;74;1082;996;1526;528
+POL;Poland;parliament;13.10.2019;27,4;134;460;PO;Platforma Obywatelska;Civic Platform;6,2355;74;1082;996;1526;512
+POL;Poland;parliament;13.10.2019;12,56;24;460;SLD;Sojusz Lewicy Demokratycznej;Democratic Left Alliance;2,8299;74;1082;996;1526;629
+POL;Poland;parliament;13.10.2019;8,55;20;460;PSL;Polskie Stronnictwo Ludowe;Polish People's Party;4,1856;74;1082;996;1526;664
+POL;Poland;parliament;13.10.2019;;19;460;WIO;Wiosna;Spring;3,3;74;1082;996;1526;2740
+POL;Poland;parliament;13.10.2019;;6;460;LR;Lewica Razem;Left Together;3,3;74;1082;996;1526;2790
+POL;Poland;parliament;13.10.2019;;6;460;K;Kukiz'15;Kukiz'15;8,7;74;1082;996;1526;2600
+POL;Poland;parliament;13.10.2019;6,81;5;460;KORWIN;Koalicja Odnowy Rzeczypospolitej Wolno?? i Nadzieja KORWiN;Coalition for the Renewal of the Republic -- Liberty and Hope;7,4;74;1082;996;1526;2602
+POL;Poland;parliament;13.10.2019;;5;460;RN;Ruch Narodowy;National Movement ;8,7;74;1082;996;1526;2398
+POL;Poland;parliament;13.10.2019;;3;460;none;no party affiliation;no party affiliation;;74;1082;996;1526;1011
+POL;Poland;parliament;13.10.2019;;1;460;D|W|U;Demokratyczna | Wolno?ci | Unia;Democratic | Freedom | Union;5,2295;74;1082;996;1526;1104
+POL;Poland;parliament;13.10.2019;0,17;1;460;MN;Mniejszo?? niemiecka w Polsce;German minority;;74;1082;996;1526;900
+POL;Poland;parliament;13.10.2019;;1;460;one-seat;one seat;one seat;;74;1082;996;1526;2287
+POL;Poland;parliament;13.10.2019;0,73;0;460;no-seat;no seat;no seat;;74;1082;996;1526;2053
+PRT;Portugal;parliament;30.01.2022;42,5;120;230;PS;Partido Socialista;Socialist Party;4,0492;63;1109;1081;1610;725
+PRT;Portugal;parliament;30.01.2022;28,41;72;230;PSD;Partido Social Democrata;Social Democratic Party;6,2949;63;1109;1081;1610;1273
+PRT;Portugal;parliament;30.01.2022;7,38;12;230;CH;Chega;Enough;8,7;63;1109;1081;1610;2789
+PRT;Portugal;parliament;30.01.2022;5,05;8;230;IL;Iniciativa Liberal;Liberal Initiative;6;63;1109;1081;1610;2788
+PRT;Portugal;parliament;30.01.2022;4,41;6;230;PCP;Partido Comunista Portugu?s;Portuguese Communist Party;2,1754;63;1109;1081;1610;514
+PRT;Portugal;parliament;30.01.2022;4,52;5;230;BE;Bloco de Esquerda;Bloc of the Left;1,6425;63;1109;1081;1610;557
+PRT;Portugal;parliament;30.01.2022;1,65;3;230;CDS-PP;Centro Democr?tico e Social – Partido Popular;Democratic and Social Centre -- People's Party;8,0222;63;1109;1081;1610;251
+PRT;Portugal;parliament;30.01.2022;0,51;2;230;PPM;Partido Popular Mon?rquico;Popular Monarchist Party;7,4;63;1109;1081;1610;107
+PRT;Portugal;parliament;30.01.2022;1,31;1;230;L;Livre – Liberdade, Esquerda, Europa e Ecologia;Livre;3,3;63;1109;1081;1610;2374
+PRT;Portugal;parliament;30.01.2022;1,63;1;230;PAN;Partido pelos Animais e pela Natureza;Party for Animals and Nature;2,5;63;1109;1081;1610;1781
+PRT;Portugal;parliament;30.01.2022;0,43;0;230;no-seat;no seat;no seat;;63;1109;1081;1610;2864
+ROU;Romania;parliament;06.12.2020;28,9;110;330;PSD;Partidul Social Democrat;Social Democratic Party;3,2325;23;1093;1015;1626;1120
+ROU;Romania;parliament;06.12.2020;25,19;93;330;PNL;Partidul Na?ional Liberal;National Liberal Party;6,0543;23;1093;1015;1626;1015
+ROU;Romania;parliament;06.12.2020;15,37;55;330;USR|PLUS;Uniunea Salva?i Rom?nia | Partidul Libertate, Unitate ?i Solidaritate;Save Romania Union | Party of Liberty, Unity and Solidarity;6;23;1093;1015;1626;2646
+ROU;Romania;parliament;06.12.2020;9,08;33;330;AUR;Alian?a pentru Unirea Rom?nilor;Alliance for the Unity of Romanians;8,7;23;1093;1015;1626;2807
+ROU;Romania;parliament;06.12.2020;5,74;21;330;UDMR;Uniunea Democrat? Maghiar? din Rom?nia;Democratic Union of Hungarians in Romania;6,016;23;1093;1015;1626;948
+ROU;Romania;parliament;06.12.2020;;18;330;etnice;Partidele minorit??ilor etnice din Rom?nia;Romanian ethnic minorities parties;;23;1093;1015;1626;425
+ROU;Romania;parliament;06.12.2020;4,82;0;330;PMP;Partidul Mi?carea Popular?;People's Movement Party;6,2;23;1093;1015;1626;2395
+ROU;Romania;parliament;06.12.2020;4,09;0;330;PROR;PRO Rom?nia;PRO Romania;6;23;1093;1015;1626;2746
+ROU;Romania;parliament;06.12.2020;1,12;0;330;PER;Partidul Ecologist Rom?n;Romanian Ecologist Party;2,5;23;1093;1015;1626;792
+ROU;Romania;parliament;06.12.2020;1,01;0;330;PU|PC;Partidul Umanist | Partidul Conservator;Humanist Party | Conservative Party;4,7622;23;1093;1015;1626;5
+SVK;Slovakia;parliament;29.02.2020;25,02;53;150;OLaNO;Oby?ajn? ?udia a nez?visl? osobnosti;Ordinary People and Independent;7,4;1;1089;1003;1529;1759
+SVK;Slovakia;parliament;29.02.2020;18,29;38;150;Smer;Smer – soci?lna demokracia;Direction -- Social Democracy;3,3799;1;1089;1003;1529;220
+SVK;Slovakia;parliament;29.02.2020;8,24;17;150;SR;Sme Rodina – Boris Koll?r;We are family -- Boris Kollar;8,7;1;1089;1003;1529;2623
+SVK;Slovakia;parliament;29.02.2020;7,97;17;150;LsNS;?udov? strana Na?e Slovensko;People's Party Our Slovakia;8,7;1;1089;1003;1529;586
+SVK;Slovakia;parliament;29.02.2020;6,22;13;150;SaS;Sloboda a solidarita;Freedom and Solidarity;6;1;1089;1003;1529;1460
+SVK;Slovakia;parliament;29.02.2020;5,77;12;150;ZAL;Za ?ud?;For the People;6;1;1089;1003;1529;2796
+SVK;Slovakia;parliament;29.02.2020;6,96;0;150;PS;Progres?vne Slovensko;Progressive Slovakia;6;1;1089;1003;1529;2751
+SVK;Slovakia;parliament;29.02.2020;;0;150;SPOLU;SPOLU – ob?ianska demokracia;TOGETHER -- Civic Democracy;6;1;1089;1003;1529;2752
+SVK;Slovakia;parliament;29.02.2020;4,65;0;150;KDH;Kres?anskodemokratick? hnutie;Christian Democratic Movement;7,1082;1;1089;1003;1529;1432
+SVK;Slovakia;parliament;29.02.2020;3,9;0;150;MK;Ma?arskej koal?cie – Magyar koal?ci?;Hungarian Coalition;6,5005;1;1089;1003;1529;559
+SVK;Slovakia;parliament;29.02.2020;3,16;0;150;SNS;Slovensk? n?rodn? strana;Slovak National Party;7,0198;1;1089;1003;1529;1072
+SVK;Slovakia;parliament;29.02.2020;2,05;0;150;MH;Most-H?d;Most-Hid;7,4;1;1089;1003;1529;1620
+SVK;Slovakia;parliament;29.02.2020;3,06;0;150;DV;Dobr? vo?ba;Good Choice;3,3;1;1089;1003;1529;2797
+SVK;Slovakia;parliament;29.02.2020;2,93;0;150;V;Vlas?;Homeland;8,7;1;1089;1003;1529;2798
+SVN;Slovenia;parliament;22.04.2022;34,45;41;90;GS;Gibanje Svoboda;Freedom Movement;3,3;60;1108;1025;1668;2856
+SVN;Slovenia;parliament;22.04.2022;23,48;27;90;SDS;Slovenska demokratska stranka;Slovenian Democratic Party;6,9996;60;1108;1025;1668;179
+SVN;Slovenia;parliament;22.04.2022;6,86;8;90;NSI;Nova Slovenija – Kr??anska ljudska stranka;New Slovenia -- Christian People's Party;7,9345;60;1108;1025;1668;1047
+SVN;Slovenia;parliament;22.04.2022;6,69;7;90;ZL-SD;Zdru?ena lista – Socialni demokrati;United List -- Social Democrats;3,0637;60;1108;1025;1668;706
+SVN;Slovenia;parliament;22.04.2022;4,46;5;90;L;Levica;The Left;1,3;60;1108;1025;1668;2670
+SVN;Slovenia;parliament;22.04.2022;;1;90;Ita;Italijanska narodna skupnost;Italian national community;;60;1108;1025;1668;199
+SVN;Slovenia;parliament;22.04.2022;;1;90;Mad;Mad?arska narodna skupnost;Hungarian national community;;60;1108;1025;1668;65
+SVN;Slovenia;parliament;22.04.2022;3,72;0;90;LMS;Lista Marjana ?arca;List of Marjan Sarec;3,3;60;1108;1025;1668;2668
+SVN;Slovenia;parliament;22.04.2022;1,35;0;90;VESNA;VESNA – zelena stranka;Vesna -- the Green Party;2,5;60;1108;1025;1668;2865
+SVN;Slovenia;parliament;22.04.2022;1,49;0;90;SNS;Slovenska nacionalna stranka;Slovenian National Party;4,7941;60;1108;1025;1668;981
+SVN;Slovenia;parliament;22.04.2022;1,5;0;90;ND;Na?a de?ela;Our Country;2,5;60;1108;1025;1668;2866
+SVN;Slovenia;parliament;22.04.2022;1,63;0;90;PSS; Piratska stranka Slovenije;Slovenian Pirate Party;;60;1108;1025;1668;2338
+SVN;Slovenia;parliament;22.04.2022;1,7;0;90;DD;Dobra Drzava;Good Country;3,3;60;1108;1025;1668;2669
+SVN;Slovenia;parliament;22.04.2022;3,72;0;90;SLS;Slovenska ljudska stranka;Slovenian People's Party;6,6953;60;1108;1025;1668;16
+SVN;Slovenia;parliament;22.04.2022;2,86;0;90;Resni.ca;Resni.ca;Resni.ca;;60;1108;1025;1668;2885
+SVN;Slovenia;parliament;22.04.2022;2,61;0;90;ZaAB;Zavezni?tvo Alenke Bratu?ek;Alliance of Alenka Bratusek;3,3;60;1108;1025;1668;2337
+SVN;Slovenia;parliament;22.04.2022;1,76;0;90;GZD;Gibanje Zdrava Dru?ba;Healthy Society Movement;;60;1108;1025;1668;2886
+SWE;Sweden;parliament;11.09.2022;30,33;107;349;SAP;Socialdemokraterna;Social Democrats;3,4447;35;1112;1041;1652;904
+SWE;Sweden;parliament;11.09.2022;20,54;73;349;SD;Sverigedemokraterna;Sweden Democrats;8,7;35;1112;1041;1652;1546
+SWE;Sweden;parliament;11.09.2022;19,1;68;349;M;Moderaterna;Moderate Party;7,8907;35;1112;1041;1652;657
+SWE;Sweden;parliament;11.09.2022;6,71;24;349;C;Centerpartiet;Centre Party;5,8084;35;1112;1041;1652;1461
+SWE;Sweden;parliament;11.09.2022;6,75;24;349;V;V?nsterpartiet (kommunisterna);Left Party (Communists);1,5464;35;1112;1041;1652;882
+SWE;Sweden;parliament;11.09.2022;5,34;19;349;KD;Kristdemokraterna;Christian Democrats;7,195;35;1112;1041;1652;282
+SWE;Sweden;parliament;11.09.2022;5,08;18;349;MP;Milj?partiet de Gr?na;Greens;3,3789;35;1112;1041;1652;1154
+SWE;Sweden;parliament;11.09.2022;4,61;16;349;FP;Folkpartiet;People's Party;6,2906;35;1112;1041;1652;892
+SWE;Sweden;parliament;11.09.2022;0,44;0;349;no-seat;no seat;no seat;;35;1112;1041;1652;2405
